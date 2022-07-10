@@ -14,6 +14,7 @@ debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
+et-xmlfile==1.1.0
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///tmp/build/80754af9/python-fastjsonschema_1620414857593/work/dist
 fonttools==4.25.0
@@ -46,6 +47,7 @@ nest-asyncio @ file:///C:/ci/nest-asyncio_1649848132512/work
 notebook @ file:///C:/ci/notebook_1651648656210/work
 numexpr @ file:///C:/ci/numexpr_1656071426911/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1652784037925/work
+openpyxl==3.0.10
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas @ file:///C:/ci/pandas_1650373461903/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
@@ -66,6 +68,8 @@ pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-
 pyzmq @ file:///C:/ci_310/pyzmq_1642090360481/work
 qtconsole @ file:///opt/conda/conda-bld/qtconsole_1649078897110/work
 QtPy @ file:///opt/conda/conda-bld/qtpy_1649073884068/work
+scipy @ file:///C:/ci_310/scipy_1642247684282/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 sip==4.19.13
 six @ file:///tmp/build/80754af9/six_1644875935023/work
